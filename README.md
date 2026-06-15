@@ -43,9 +43,9 @@
 
 ### Currently Learning
 
-- 🐍 Python — OOP, file I/O, CLI tools
-- 🌿 Git & GitHub — version control, commit workflows
 - 📊 Data Science & ML — working through a structured roadmap
+- 🔢 NumPy & Pandas — data manipulation and analysis
+- 📈 Data Visualization — Matplotlib, Seaborn
 
 ---
 
