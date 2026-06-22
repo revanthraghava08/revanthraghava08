@@ -38,14 +38,15 @@
 | Project | Description | Stack |
 |---|---|---|
 | [cli-data-parser](https://github.com/revanthraghava08/cli-data-parser) | CLI tool to read, filter, and analyse CSV data from the terminal | Python · argparse · csv |
+| [imdb-eda](https://github.com/revanthraghava08/imdb-eda) | EDA on IMDb Top 1000 Movies — genres, directors, decades & missing data | Python · pandas · NumPy |
 
 ---
 
 ### Currently Learning
 
 - 📊 Data Science & ML — working through a structured roadmap
-- 🔢 NumPy & Pandas — data manipulation and analysis
-- 📈 Data Visualization — Matplotlib, Seaborn
+- ✅ pandas & NumPy — completed (EDA project live)
+- 📈 Data Visualization — Matplotlib, Seaborn (Level 3 — up next)
 
 ---
 
