@@ -15,8 +15,8 @@
 
 ### About Me
 
-- 🎓 B.Tech CSE — 3rd year · CGPA 8.85
-- 🛣️ Currently working through a structured DS & AI/ML roadmap
+- 🎓 B.Tech CSE — 3rd year · CGPA 8.71
+- 🛣️ Currently working through a structured DS & AI/ML roadmap — wrapping up data viz & SQL, moving into ML fundamentals
 - 🔨 I build every project hands-on — understanding every line I write
 - 📍 Eluru, India
 
@@ -47,19 +47,8 @@
 
 ---
 
-### Roadmap Progress
-
-| Level | Topics | Status |
-|---|---|---|
-| Level 0–1 | Python fundamentals, OOP, CLI tools | ✅ Complete |
-| Level 2 | pandas, NumPy, EDA | ✅ Complete |
-| Level 3 | Matplotlib, Seaborn, SQL, Streamlit | ✅ Complete |
-| Level 4 | Machine Learning | 🔄 Up next |
-
----
-
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=revanthraghava08&show_icons=true&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=revanthraghava08&show_icons=true&theme=dark&hide_border=true" height="180"/>
   &nbsp;
-  <img src="https://streak-stats.demolab.com?user=revanthraghava08&theme=dark&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=revanthraghava08&theme=dark&hide_border=true" height="180"/>
 </p>
