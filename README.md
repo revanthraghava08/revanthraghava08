@@ -48,7 +48,10 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=revanthraghava08&show_icons=true&theme=dark&hide_border=true" height="180"/>
+  <img
+  src="https://github-stats-extended.vercel.app/api?username=revanthraghava08&show_icons=true&include_all_commits=true&rank_icon=github&theme=codeSTACKr"
+  height="180"
+  />
   &nbsp;
   <img src="https://streak-stats.demolab.com?user=revanthraghava08&theme=dark&hide_border=true" height="180"/>
 </p>
