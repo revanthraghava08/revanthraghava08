@@ -16,7 +16,7 @@
 ### About Me
 
 - 🎓 B.Tech CSE — 3rd year · CGPA 8.71
-- 🛣️ Currently working through a structured DS & AI/ML roadmap — wrapping up data viz & SQL, moving into ML fundamentals
+- 🛣️ Working through a structured DS & AI/ML roadmap — done with Python, pandas, data viz, SQL, stats & math for ML, and classical ML with scikit-learn. Moving into Neural Networks & PyTorch
 - 🔨 I build every project hands-on — understanding every line I write
 - 📍 Eluru, India
 
@@ -30,6 +30,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -41,9 +42,10 @@
 
 | Project | Description | Stack |
 |---|---|---|
-| [cli-data-parser](https://github.com/revanthraghava08/cli-data-parser) | CLI tool to read, filter, and analyse CSV data from the terminal | Python · argparse · csv |
-| [imdb-eda](https://github.com/revanthraghava08/imdb-eda) | EDA on IMDb Top 1000 Movies — genres, directors, decades & missing data | Python · pandas · NumPy |
+| [churn-predictor](https://github.com/revanthraghava08/churn-predictor) | Customer churn classifier with a cost-based threshold slider to balance missed churners vs. false alarms · [🚀 Live Demo](https://churnvision-ai.streamlit.app) | Python · scikit-learn · pandas · Streamlit |
 | [imdb-viz](https://github.com/revanthraghava08/imdb-viz) | Interactive analytics dashboard — live filters, 4 charts & SQL explorer · [🚀 Live Demo](https://imdb-analytics.streamlit.app) | Python · Matplotlib · Seaborn · SQLite · Streamlit |
+| [imdb-eda](https://github.com/revanthraghava08/imdb-eda) | EDA on IMDb Top 1000 Movies — genres, directors, decades & missing data | Python · pandas · NumPy |
+| [cli-data-parser](https://github.com/revanthraghava08/cli-data-parser) | CLI tool to read, filter, and analyse CSV data from the terminal | Python · argparse · csv |
 
 ---
 
